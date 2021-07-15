@@ -136,7 +136,7 @@ body.white .indicador{
     background: #232323;
     border-radius: 50%;
     font-size: 1.5em;
-    transition: 0.5s;
+    transition: 0.5s ease all;
 }
 
 .social-icons .fab:hover{
